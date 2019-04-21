@@ -33,5 +33,7 @@ Includes improvements around client API/RPC specifications and standards, and al
 
 Improvements on Application-level standards and conventions, such as changes on eosio.token contract.
 
+# Examples
 
+Coming soon.
 
