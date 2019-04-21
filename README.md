@@ -11,7 +11,7 @@ BOS Improvement Proposals (BOSIPs) describ procedures and standards for BOS, inc
 - **Final (non-Core)** - BOSIPs that have been in **Last Call** for 2 weeks or more and any technical changes that were requested have been addressed by the author.
 - **Deferred** - BOSIPs that are not being considered for immediate adoption. May be considered in the future.
 
-![](assets\class.png)
+![](https://github.com/boscore/BOSIPs/blob/master/assets/class.png)
 
 # BOSIP Types
 
