@@ -2,7 +2,7 @@
 
 BOS Improvement Proposals (BOSIPs) describ procedures and standards for BOS, including BOS core protocol specifications, networking protocols, client API/RPC, and contract standards.
 
-How to contribute？Here is a [template BOSIP here](https://github.com/boscore/BOSIPs/blob/master/BOSIPS/bosip-xxxxxxxx.md).
+How to contribute？Here is a [template BOSIP](https://github.com/boscore/BOSIPs/blob/master/BOSIPS/bosip-xxxxxxxx.md).
 
 # BOSIP Status Terms
 
