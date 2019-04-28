@@ -1,3 +1,0 @@
-# BOSIP Example
-
-Coming soon.
